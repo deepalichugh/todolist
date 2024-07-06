@@ -1,0 +1,24 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #FFFFFF;
+}
+body header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  gap: 0;
+}
+body header h1 {
+  color: #a15000;
+  margin: 0;
+}
+body header p {
+  font-size: 16px;
+}
+
+/*# sourceMappingURL=/app.581aa3f0.css.map */
